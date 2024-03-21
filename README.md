@@ -1,1 +1,1 @@
-# carter-game
+# Welcome to cater game
